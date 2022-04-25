@@ -1,2 +1,1 @@
-# 1U_RW_Hardware
-PCB Design Files for 1U RW Test Stand
+The folder "Reaction Wheels Template" Contains a template with connectors and board layout to be used for an PCBs involved in the 1U reaction wheels test stand that you should be able to make a copy of to start a new design. Make new folders for all other designs. 
